@@ -33,8 +33,9 @@
 - [ ] Open Source
     - Elements Engineer
         - [Hippie Elements](https://github.com/hippie-elements)
-    - Github goals
+    - Big Projects
         - [BananaCSS](https://github.com/bananacss)
+    - Github goals
         - 1k stars (single project)
         - 1k followers
         - Join webcomponents.org

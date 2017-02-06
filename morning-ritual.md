@@ -2,8 +2,9 @@
 
 - Wake up 7h am
 - Drink 500ml water
+- Stretching
 - Breakfast
-- Sun
+- Sun + listener
 - 10 min meditation
 - Study english (1x pomodoro)
 - Take a shower
