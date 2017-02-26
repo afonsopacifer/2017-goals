@@ -1,6 +1,7 @@
 # 2017 Goals
 
 ## Big Goals
+
 - [ ] Upgrade my english level
 - [ ] Hight Stakes Lifestyle
 - [ ] Platform Evangelism
@@ -9,6 +10,7 @@
 - [ ] New Daily Job
 
 ## Mediums
+
 - [ ] Upgrade my english level
     - [Learn english every single day challenge](https://github.com/afonsopacifer/learn-english-every-single-day)
 - [ ] Hight Stakes Lifestyle
@@ -17,7 +19,7 @@
     - Meditation
     - Organization
     - Health (BioHacking)
-    - Books 0/0
+    - [Books](books.md)
 - [ ] Platform Evangelism (CSS / HTTP2 / Web components / Service Workers)
     - CSS
         - [CSShortcut]()
@@ -43,4 +45,5 @@
 - [ ] New Daily Job
 
 ## License
+
 [MIT License](https://github.com/afonsopacifer/2017-goals/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.github.io/)
