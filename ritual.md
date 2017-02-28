@@ -7,8 +7,8 @@
 - Breakfast - Introspective moment
 - 10 min meditation
 - Study english (1x pomodoro)
-- physical exercise + Read or Listen(1x pomodoro)
-- eat protein
+- Physical exercise + Read or Listen(1x pomodoro)
+- Eat protein
 - Take a shower
 - 10 min meditation
 - Listen english (1x pomodoro)

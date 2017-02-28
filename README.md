@@ -14,6 +14,7 @@
 - [ ] Upgrade my english level
     - [Learn english every single day challenge](https://github.com/afonsopacifer/learn-english-every-single-day)
 - [ ] Hight Stakes Lifestyle
+    - [Action Day](action-day.md)
     - [Ritual](ritual.md)
     - [Runner](https://www.strava.com/athletes/19379991)
     - Meditation
