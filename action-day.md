@@ -3,7 +3,7 @@
 - [Morning Ritual](ritual.md#morning-ritual)
 - Hardwork
   - Complete daily todo tasks
-- Enjoy my life
+- Enjoy the life
 - [Evening Ritual](ritual.md#morning-ritual)
 
 ## NOT todo list

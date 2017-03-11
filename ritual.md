@@ -1,19 +1,20 @@
 ## Morning Ritual
 
-- Wake up 7h am + lemon
-- Drink 500ml water (Introspective moment)
-- Stretching (yoga) + Sun 10min + Listen Podcast
-- Prepare Breakfast (bulletproof coffee) + Listen Podcast
-- Breakfast  + Listen Podcast
+- Wake up 7h am
+- Drink 500ml water
+- Stretching (yoga) + Sun 10min + Listen Podcast or Read a book
+- Prepare Breakfast (bulletproof coffee) + Listen Podcast or Read a book
+- Breakfast + Listen Podcast or Read a book
 - 10 min meditation
 - Study english (1x pomodoro)
-- Physical exercise + Read or Listen(1x pomodoro)
+- Physical exercise + Listen music and Read a book (1x pomodoro)
 - Eat protein
 - Cold shower
 - Overview in social networks
 
 ## Evening Ritual
 
+- Start at 00:00h
 - Next day
   - Set intention
   - Organize clothes
@@ -23,7 +24,9 @@
 
 ## Apps
 
-- [x] Flux
+- [x] [Flux](https://justgetflux.com/)
+- [x] [vue-meditation](https://afonsopacifer.github.io/vue-meditation/)
+- [x] [react-pomodoro](http://afonsopacifer.github.io/react-pomodoro/)
 - [ ] Sleep Cycle
 - [ ] Night Shift
 
