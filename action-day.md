@@ -1,7 +1,7 @@
 # Action Day
 
 - [Morning Ritual](ritual.md#morning-ritual)
-- Hardwork
+- Hardwork - Flow
   - Complete daily todo tasks
 - Enjoy the life
 - [Evening Ritual](ritual.md#morning-ritual)
