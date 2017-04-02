@@ -2,26 +2,60 @@
 
 ## Big Goals
 
-- [ ] Upgrade my english level
-- [ ] Hight Stakes Lifestyle
-- [ ] Platform Evangelism
-- [ ] Javascript Client Side Skills
-- [ ] Open Source
-- [ ] New Daily Job
+- [Upgrade my english level](#)
+- [Personal development / Lifestyle](#)
+- [Platform Evangelism](#)
+- [Finance / investment planning](#)
+- [Open Source development](#)
+- [Javascript Client Side Skills](#)
+- [New Daily Job](#)
+
+## Mediums Goals
+
+- [Platform Evangelism](#)
+  - [ ] CSS
+    - [ ] @supports
+    - [ ] Custom Properties
+    - [ ] Grid Layout
+    - [ ] @apply
+  - [ ] Web Components with Polymer
+    - [ ] Polymer basics
+    - [ ] Polymer cheatsheet
+  - [ ] UI components
+    - [ ] Experience
+    - [ ] Performance
+      - [ ] Lighthouse
+    - [ ] Atomic Design
+    - [ ] Lint
+    - [ ] Tests
+    - [ ] CI
+    - [ ] Docs
+    - [ ] PE
+  - [ ] Service Workers
+  - [ ] HTTP 2
+  - [ ] PWA concepts
+    - [ ] Web Manifest
+    - [ ] Offline
+    - [ ] Push Notifications
+
+- [Finance / investment planning](#)
+- [Open Source development](#)
+- [Javascript Client Side Skills](#)
+
 
 ### Upgrade my english level
 
 - [x] [Learn english every single day challenge](https://github.com/afonsopacifer/learn-english-every-single-day)
 
-### Hight Stakes Lifestyle
+### Personal Development / Lifestyle
 
-- [ ] [Action Day](action-day.md)
 - [x] [Ritual](ritual.md)
-- [ ] [Runner](https://www.strava.com/athletes/19379991)
+- [x] Physical exercises
 - [x] Daily Meditation
 - [ ] Organization
-- [ ] Health (BioHacking)
-- [ ] [Books 0/12](books.md)
+- [ ] Food quality
+- [ ] Sleep quality
+- [ ] [Books 3/12](books.md)
 
 ### Platform Evangelism
 

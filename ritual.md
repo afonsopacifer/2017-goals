@@ -1,31 +1,33 @@
 ## Morning Ritual
 
-- **Wake** up (**7h am** || **7:30h am**)
-- Drink 500ml **water**
-- Stretching (yoga) + **Sun** +  Read a book: **~ 10min**
-- Prepare Breakfast (**bulletproof** coffee) + Read a book: ** 15min**
-- **Eat** breakfast + Read a book: **~ 1:00h**
-- **Meditation**: **~ 10min**
-- Study **english**: **~ 40min**
-- **Physical exercise** + Read a side book: **~ 30min**
-- Eat **protein**
-- Cold **shower**
-- Overview in **social** networks
-- **End** Ritual (**10:30h am** || **11:00h am**)
+**Start**: 7h am || 7:30h am
+
+#### Wake up
+- Drink 500ml water
+- Stretching (yoga) + mentalization: **≈ 10min**
+
+#### Coffe / read
+- Prepare Breakfast: **≈ 10min**
+- Eat breakfast and Read a book: **≈ 1:00h**
+
+#### Learning english
+- Meditation: **≈ 10min**
+- Study english: **≈ 30min**
+
+#### Physical exercise
+- Bike || Basketball: **≈ 20min**
+- Sun: **≈ 15min**
+- Shower and eat protein
+
+**End**: 11h am || 11:30h am
+
+<hr>
 
 ## Evening Ritual
 
-- Start at 00:00h
 - Set intention for next day
-- Clean workspace
 - Remember good things of the day
-- Got to sleep 1h am
-
-## Apps
-
-- [x] [Flux](https://justgetflux.com/)
-- [x] [vue-meditation](https://afonsopacifer.github.io/vue-meditation/)
-- [x] [react-pomodoro](http://afonsopacifer.github.io/react-pomodoro/)
-- [ ] Night Shift
+- Clean workspace
+- Got to sleep (max 00:00)
 
 ### [<-- Back](https://github.com/afonsopacifer/2017-goals)
