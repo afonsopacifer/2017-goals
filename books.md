@@ -1,6 +1,6 @@
 # Books
 
-## Label
+## Labels
 
 | Icon | Description |
 |:---: |---   |
@@ -31,5 +31,30 @@
 | Month | Book | Status |
 |---    |---   |:---:     |
 | Mar/Apr | Como se tornar um líder servidor - James C. Hunter | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+
+## Available on Library
+
+| Book |
+|---   |
+|  |
+
+## Wishlist
+
+| Book |
+|---   |
+| O Mito do Empreendedor - Michael E. Gerber|
+| O Animal Social - David Brooks |
+| a startup enxuta - Eric Ries |
+| As Armas da Persuasão - Robert Cialdini |
+| Pais inteligentes enriquecem seus filhos - Gustavo Cerbasi |
+| Reinvente sua empresa - David Heinemeier Hansson |
+| A mente organizada - Daniel J. Levitin |
+| A Única Coisa - Gary W. Keller, Jay Papasan |
+| The Slight Edge - John David Mann |
+| Foco - Daniel Goleman |
+| Mindset - Carol Dweck |
+| Flow - Mihaly Csikszentmihalyi |
+| The Miracle Morning - Hal Elrod |
+| Investimentos inteligentes - Gustavo Cerbasi |
 
 ### [<-- Back](https://github.com/afonsopacifer/2017-goals)
